@@ -1,0 +1,15 @@
+.error {
+  background: none;
+  border: none;
+  border-radius: 0;
+  padding: 8px;
+  margin: 12px 0;
+  text-align: center;
+}
+
+.errorText {
+  color: #c00;
+  margin: 0;
+  font-size: 15px;
+  font-weight: 400;
+} 

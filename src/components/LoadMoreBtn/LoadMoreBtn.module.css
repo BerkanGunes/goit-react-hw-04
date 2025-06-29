@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  justify-content: center;
+  margin: 16px 0;
+}
+
+.button {
+  background: #3b4a8b;
+  color: #fff;
+  border: none;
+  border-radius: 0;
+  padding: 8px 24px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
+}
+
+.button:active {
+  transform: translateY(0);
+} 
